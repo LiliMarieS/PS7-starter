@@ -1,8 +1,23 @@
 ---
 title: "Problem Set 7 - Git Questions"
-author: "Your Name"
+author: "Lili Sandmair"
 date: "02 June 2020"
 output: pdf_document
 ---
 
-Text answers suffice!
+1. Who is responsible for which functions?
+
+Philipp: pem_cr
+Julia: summary.pem_cr, print.pem_cr
+
+1. Who contributed more to the code?
+
+They contributed equally.
+
+1. Who pushed more often? 
+
+Phillip Kopper pushed more.
+
+1. Do the two have a different style?
+
+Yes, they do have a different style. Philipp pushes more, while Julia pushes more focused.
